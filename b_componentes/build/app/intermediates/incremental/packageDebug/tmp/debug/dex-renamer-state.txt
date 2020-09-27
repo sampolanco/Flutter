@@ -1,4 +1,0 @@
-#Sun Sep 27 14:40:21 CDT 2020
-base.0=C\:\\Users\\samy_\\Documents\\Flutter\\b_componentes\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
